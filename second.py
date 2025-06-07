@@ -1,0 +1,1 @@
+print("details of file first.py which is pushed")
